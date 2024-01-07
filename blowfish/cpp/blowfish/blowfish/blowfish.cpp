@@ -32,13 +32,9 @@ void Blowfish::Initialize(const uint8_t* key, size_t keyLength) {
     };
 
     const uint32_t S_init[4][256] = {
-        // S1
         { 0xd1310ba6, 0x98dfb5ac, 0x2ffd72db, 0xd01adfb7 },
-        // S2
         { 0x76dc4190, 0x98d220bc, 0xefa8c1d7, 0xf61e2562 },
-        // S3
         { 0x76dc4190, 0x98d220bc, 0xefa8c1d7, 0xf61e2562 },
-        // S4
         { 0x76dc4190, 0x98d220bc, 0xefa8c1d7, 0xf61e2562 }
     };
 
