@@ -1,0 +1,3 @@
+﻿  RLE.cpp
+C:\Users\barte\Desktop\inz\AnalizaWydajnosci\rle\cpp\RLE\RLE\RLE.cpp(7,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  RLE.vcxproj -> C:\Users\barte\Desktop\inz\AnalizaWydajnosci\rle\cpp\RLE\x64\Debug\RLE.exe
